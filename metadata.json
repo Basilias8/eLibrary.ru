@@ -1,0 +1,7 @@
+{
+  "name": "eLibrary Scientific Paper Parser",
+  "description": "Веб-приложение для парсинга и каталогизации научных статей с eLibrary.ru: извлечение авторов, года публикации, места издания, типа работы и количества страниц.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
